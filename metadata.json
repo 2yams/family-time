@@ -1,0 +1,6 @@
+{
+  "name": "Generation Gap",
+  "description": "An interactive family communication experience bridging generational perspectives through guided conversations and shared discoveries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
